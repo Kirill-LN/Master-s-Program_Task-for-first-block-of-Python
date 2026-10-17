@@ -1,0 +1,1 @@
+2026-10-17 13:38:14,492 - CRITICAL - Ошибка обработки данных: To_Do_list.__init__() missing 1 required positional argument: 'path_file'
